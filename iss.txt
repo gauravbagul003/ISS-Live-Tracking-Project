@@ -1,0 +1,18 @@
+There are currently 14 astronauts on the ISS: 
+
+Kjell Lindgren - on board
+Bob Hines - on board
+Samantha Cristoforetti - on board
+Jessica Watkins - on board
+Cai Xuzhe - on board
+Chen Dong - on board
+Liu Yang - on board
+Sergey Prokopyev - on board
+Dmitry Petelin - on board
+Frank Rubio - on board
+Nicole Mann - on board
+Josh Cassada - on board
+Koichi Wakata - on board
+Anna Kikina - on board
+
+ Your current Latitude / Longitude is: [19.1159, 74.6786]
